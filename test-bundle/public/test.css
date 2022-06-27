@@ -1,0 +1,18 @@
+input{
+    background-color: black;
+    color: white;
+    width: 20rem;
+    display: block;
+    height: 3rem;
+}
+h1{
+    color: black;
+    font-weight: 900;
+}
+button{
+    display: block;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 40px;
+}
