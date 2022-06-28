@@ -113,4 +113,13 @@ const games = [
   },
 ];
 
-module.exports = games;
+const people = [
+  {name: 'harsh', id: 1},
+  {name: 'rohit', id: 2},
+  {name: 'rohan', id: 3},
+  {name: 'sakshi', id: 4},
+  {name: 'pratiksha', id: 5},
+  {name: 'simran', id: 6},
+]
+
+module.exports = ({people, games});
